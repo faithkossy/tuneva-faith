@@ -1,0 +1,356 @@
+
+:root {
+  --bg: #f7f6f3;
+  --card: #ffffff;
+  --text: #242321;
+  --muted: #85837e;
+  --border: #eae8e3;
+  --gold: #947a48;
+  --green: #218653;
+  --red: #c74747;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+html {
+  min-height: 100%;
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Archivo", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+#tuneva-admin {
+  width: 100%;
+  min-height: 100vh;
+  padding: 35px 18px 55px;
+}
+
+.ta-main {
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.ta-brand {
+  font-family: "Zalando Sans", sans-serif;
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 1.1px;
+}
+
+.ta-brand span {
+  color: var(--gold);
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  margin-left: 4px;
+}
+
+.ta-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin-bottom: 42px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+
+.ta-header p,
+.ta-section-heading p,
+.ta-card > p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.ta-header p {
+  margin-top: 5px;
+}
+
+.ta-nav-button {
+  flex-shrink: 0;
+  min-height: 36px;
+  padding: 0 13px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--text);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.ta-nav-button:active,
+.ta-back-button:active {
+  transform: scale(.98);
+}
+
+.ta-section {
+  margin-bottom: 38px;
+}
+
+.ta-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 17px;
+}
+
+.ta-section-heading h2 {
+  margin: 0 0 5px;
+  font-family: "Zalando Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.ta-back-button {
+  flex-shrink: 0;
+  min-height: 34px;
+  padding: 0 11px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.ta-card {
+  margin-bottom: 12px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  background: var(--card);
+}
+
+.ta-card h3 {
+  margin: 0 0 5px;
+  font-family: "Zalando Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ta-card > p {
+  margin-bottom: 20px;
+}
+
+.ta-field {
+  margin-top: 17px;
+}
+
+.ta-field:first-of-type {
+  margin-top: 0;
+}
+
+#tuneva-admin label {
+  display: block;
+  margin-bottom: 9px;
+  color: #55534e;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+#tuneva-admin input {
+  display: block;
+  width: 100%;
+  height: 46px;
+  padding: 0 13px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  outline: none;
+  background: #fff;
+  color: var(--text);
+  font-size: 14px;
+  transition: border-color .2s, box-shadow .2s;
+}
+
+#tuneva-admin input:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px rgba(148, 122, 72, .09);
+}
+
+#tuneva-admin input::placeholder {
+  color: #b5b2ac;
+}
+
+#ta-save-settings {
+  width: 100%;
+  min-height: 46px;
+  margin-top: 17px;
+  border: 0;
+  border-radius: 9px;
+  background: #242321;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  transition: opacity .2s, transform .2s;
+}
+
+#ta-save-settings:active {
+  transform: scale(.99);
+}
+
+#tuneva-admin button:disabled {
+  opacity: .55;
+  cursor: not-allowed;
+}
+
+.ta-message {
+  min-height: 18px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.ta-message.success {
+  color: var(--green);
+}
+
+.ta-message.error {
+  color: var(--red);
+}
+
+.ta-toggle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding-top: 17px;
+  border-top: 1px solid var(--border);
+}
+
+.ta-toggle-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.ta-toggle-copy strong {
+  font-family: "Zalando Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.ta-toggle-copy span {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.ta-switch {
+  position: relative;
+  flex-shrink: 0;
+  width: 48px;
+  height: 27px;
+  padding: 0;
+  border: 0;
+  border-radius: 30px;
+  background: #c9c7c1;
+  transition: background .2s;
+}
+
+.ta-switch span {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,.18);
+  transition: transform .2s;
+}
+
+.ta-switch[aria-checked="true"] {
+  background: var(--green);
+}
+
+.ta-switch[aria-checked="true"] span {
+  transform: translateX(21px);
+}
+
+.ta-switch:focus-visible {
+  outline: 3px solid rgba(148, 122, 72, .2);
+  outline-offset: 3px;
+}
+
+.ta-withdrawal-card {
+  padding-bottom: 16px;
+}
+
+.ta-withdrawal-card > p {
+  margin-bottom: 18px;
+}
+
+.ta-footer {
+  padding: 22px 0 5px;
+  border-top: 1px solid var(--border);
+  color: #aaa69e;
+  text-align: center;
+  font-size: 10px;
+}
+
+@media (max-width: 420px) {
+  .ta-header {
+    align-items: flex-start;
+  }
+
+  .ta-nav-button {
+    max-width: 125px;
+    white-space: normal;
+    line-height: 1.3;
+  }
+
+  .ta-section-heading {
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 650px) {
+  #tuneva-admin {
+    padding: 50px 25px 65px;
+  }
+
+  .ta-card {
+    padding: 23px;
+  }
+
+  #ta-settings-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  #ta-settings-form .ta-card:first-child {
+    grid-column: 1 / -1;
+  }
+
+  #ta-settings-form > #ta-save-settings,
+  #ta-settings-form > #ta-settings-message {
+    grid-column: 1 / -1;
+  }
+}
