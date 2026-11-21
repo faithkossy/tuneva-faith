@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-71420d06c79cd81c4cff4ff9",
+      "fullName": "Jacinta henry",
+      "username": "jacinbaby",
+      "email": "jacinbaby@gmail.com",
+      "phone": "08099664667",
+      "passwordHash": "b6e695959691cf414dff18f44b92f82f:42ee478021e4359af3642d1701714a40c3b479dd765e65d34f7a5c14e521cc2aea0f015386e83bb0897cf4625c154cc2070beba27585d2a05a8d839613ca0297",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-23d584fb13305f9089fda411",
+      "createdAt": "2026-11-21T21:20:05.170Z",
+      "activatedAt": "2026-11-21T21:20:05.170Z"
+    },
+    {
       "id": "USER-eb5bfe2b91cf06d1bb0d6d23",
       "fullName": "Kossy baby",
       "username": "kosiso96",
