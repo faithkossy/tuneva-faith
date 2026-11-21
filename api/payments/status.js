@@ -1,6 +1,11 @@
 
 const crypto = require("crypto");
+
 const { readJSON } = require("../../lib/github-storage");
+
+const {
+  createPersistentSessionToken
+} = require("../../lib/auth");
 
 function send(res, status, data) {
   return res.status(status).json(data);
@@ -35,12 +40,12 @@ module.exports = async function handler(req, res) {
       return send(res, 400, { ok: false });
     }
 
-    const stored = await readJSON("data/payments.json", {
+    const paymentFile = await readJSON("data/payments.json", {
       payments: []
     });
 
-    const payments = Array.isArray(stored.data?.payments)
-      ? stored.data.payments
+    const payments = Array.isArray(paymentFile.data?.payments)
+      ? paymentFile.data.payments
       : [];
 
     const payment = payments.find(
@@ -85,11 +90,61 @@ module.exports = async function handler(req, res) {
       payment.status || "pending"
     ).toLowerCase();
 
+    if (status !== "approved") {
+      return send(res, 200, {
+        ok: true,
+        status,
+        amount: Number(payment.amount || 0),
+        reference: payment.reference || null
+      });
+    }
+
+    if (payment.activationConflict === true) {
+      return send(res, 403, {
+        ok: false,
+        status: "rejected",
+        message: "This payment requires manual review."
+      });
+    }
+
+    const usersFile = await readJSON("data/users.json", {
+      users: []
+    });
+
+    const users = Array.isArray(usersFile.data?.users)
+      ? usersFile.data.users
+      : [];
+
+    const user = users.find(item =>
+      String(item.paymentId || "") === paymentId &&
+      String(item.status || "").toLowerCase() === "active"
+    );
+
+    if (!user) {
+      return send(res, 202, {
+        ok: true,
+        status: "processing",
+        amount: Number(payment.amount || 0),
+        reference: payment.reference || null
+      });
+    }
+
+    const authToken = createPersistentSessionToken(user);
+
     return send(res, 200, {
       ok: true,
-      status,
+      status: "approved",
       amount: Number(payment.amount || 0),
-      reference: payment.reference || null
+      reference: payment.reference || null,
+      authToken,
+      user: {
+        id: user.id,
+        fullName: user.fullName,
+        username: user.username,
+        email: user.email,
+        phone: user.phone,
+        status: user.status
+      }
     });
 
   } catch (error) {
