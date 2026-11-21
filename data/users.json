@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-eb5bfe2b91cf06d1bb0d6d23",
+      "fullName": "Kossy baby",
+      "username": "kosiso96",
+      "email": "faithy6777@gmail.com",
+      "phone": "09052635256",
+      "passwordHash": "63b69a623f436a04aa9a8aabd0715060:03c8cffbd38c51ee950eb427a26d13a433c45a685eef7258a99e3ade9a89cd7b2a772ffa60ba1ed9ff719855c64d330c396397c769a5374c4e3268825d6f20be",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f6c2255e7d240f8b23ed80bc",
+      "createdAt": "2026-11-21T21:13:10.569Z",
+      "activatedAt": "2026-11-21T21:13:10.569Z"
+    },
+    {
       "id": "USER-9b230ce2a3d30a9e9c56fd04",
       "fullName": "Faithy Faithy",
       "username": "wonderful2",
