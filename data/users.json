@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "USER-9b230ce2a3d30a9e9c56fd04",
+      "fullName": "Faithy Faithy",
+      "username": "wonderful2",
+      "email": "wonderful@gmail.com",
+      "phone": "08138813463",
+      "passwordHash": "dff6818d8bf4bec72de338b2ea68faf1:6b5e7e68414b12b943ec4ecad7ca48a51d590f59d5fa67dc207a22d1d23ed95057b86817e3583f993bb8f684f72309dabd8b66f7be165277fb532e15733a0be2",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-59b882aa9585ca3b1843a8e6",
+      "createdAt": "2026-11-21T18:12:00.329Z",
+      "activatedAt": "2026-11-21T18:12:00.329Z"
+    }
+  ]
+}
