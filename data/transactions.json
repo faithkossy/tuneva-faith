@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "id": "TXN-4A3B9039E85E2E066897C8D5",
+      "paymentId": "PAY-TUNEVA-59b882aa9585ca3b1843a8e6",
+      "customerName": "Faithy Faithy",
+      "email": "wonderful@gmail.com",
+      "amount": 5300,
+      "method": "paga",
+      "reference": "tv_1795284657566_f31706a07c",
+      "type": "credit",
+      "status": "successful",
+      "description": "MOVANTRA Paga payment",
+      "createdAt": "2026-11-21T18:12:00.329Z"
+    }
+  ]
+}
