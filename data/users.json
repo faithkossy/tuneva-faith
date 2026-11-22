@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-2491647c51a8fb23f969c6a7",
+      "fullName": "Nwaeze Anthony Ebuka",
+      "username": "de_saint_77",
+      "email": "nwaezeanthony865@gmail.com",
+      "phone": "08121883250",
+      "passwordHash": "a1e50f742013c5b2d6b72ee173e9aa7f:b965fd0b3dc0aa0d45382bf88ad739cd241cade4b6bdb6e8b28f63baaf731c0c2ce6048dcb6f64fc77e98b70ac06aebcf04d4e00b424c311c452bbb2b9a52f4b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a09b552bdb4ce911749bd545",
+      "createdAt": "2026-11-22T22:24:44.074Z",
+      "activatedAt": "2026-11-22T22:24:44.074Z"
+    },
+    {
       "id": "USER-cd37491f188853eebfcef1dc",
       "fullName": "Ozioma precious ohazuruike",
       "username": "flur",
