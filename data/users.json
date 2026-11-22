@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d7fa02f7cb5d16de1a2d67a5",
+      "fullName": "Ajayi Opeyemi",
+      "username": "opeyemivictoria",
+      "email": "ajayiopeyemiiii2008@gmail.com",
+      "phone": "09167486933",
+      "passwordHash": "55657d41893d39f873f8749603ff1958:5a20aec2b77a48a038c2374d203b48d2974bd0550058f93c08e2fcc2b9278cd876227a1a47e8c29e2bf2413c4eaa10f7527c3334434f290544e2378577569c87",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4c33301aa57f62bbaf68c773",
+      "createdAt": "2026-11-22T21:53:00.580Z",
+      "activatedAt": "2026-11-22T21:53:00.580Z"
+    },
+    {
       "id": "USER-eb0b70e37106ebf7aa7588c6",
       "fullName": "Aniekeme Aniekan okon",
       "username": "beautybaby",
