@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-fc84b562228079cbd20e314d",
+      "fullName": "Makamanssnsn jansnsn",
+      "username": "lakakajsksk",
+      "email": "mjaaja@gmail.com",
+      "phone": "08134545484",
+      "passwordHash": "0dc33bc4799a8815e50e41b57f6320f5:964b95501847f14b2f892f86f4e817a24b59f6655adb0372a9fdcdcc74a5a32c98bf3f797857aa6bdc10235775e2d24f7a8328a7af388774d39d3f0ba3ebc00a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-68f5bc5d919c6090a87b9182",
+      "createdAt": "2026-11-22T22:29:30.989Z",
+      "activatedAt": "2026-11-22T22:29:30.989Z"
+    },
+    {
       "id": "USER-2491647c51a8fb23f969c6a7",
       "fullName": "Nwaeze Anthony Ebuka",
       "username": "de_saint_77",
