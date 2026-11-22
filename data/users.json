@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-eb0b70e37106ebf7aa7588c6",
+      "fullName": "Aniekeme Aniekan okon",
+      "username": "beautybaby",
+      "email": "aniekeme885@gmail.com",
+      "phone": "08163311338",
+      "passwordHash": "cee86864b4e8de46d80315f21fc86073:6ad15b5f64539a4a788881893e9678a68a17c10c4cd8b361e9e9c4ac66b106a6b24eca6731d0439ec4b15324ff33fcb48df495ea7ec1854799c16984dbaaef08",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-aad99bda4982c88d1468032e",
+      "createdAt": "2026-11-22T20:57:13.068Z",
+      "activatedAt": "2026-11-22T20:57:13.068Z"
+    },
+    {
       "id": "USER-753a25f370e855feb16bf506",
       "fullName": "Sksksmsmsn ananans",
       "username": "mananansns",
