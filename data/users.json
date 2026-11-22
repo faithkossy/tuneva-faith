@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-4727e7287e584ac87481ef42",
+      "fullName": "Princess Victor",
+      "username": "princess1234",
+      "email": "queenpinly@gmail.com",
+      "phone": "08152176110",
+      "passwordHash": "a0852b647a596c749a5ec015f1646b01:f88c879a93017ab54e04cf25bd91c33e6deb12f4cfa567ccb8bf127a9b65f34a5fa9c4ad62d2fc5e4961f2539eb87cc673d95437f51855d753f17a32a0bf3836",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-119d559cca26e16a1cdfc892",
+      "createdAt": "2026-11-22T23:36:02.509Z",
+      "activatedAt": "2026-11-22T23:36:02.509Z"
+    },
+    {
       "id": "USER-a7f8d611b0a5c8e0cf1a1251",
       "fullName": "Aweda Folashade",
       "username": "folashade",
