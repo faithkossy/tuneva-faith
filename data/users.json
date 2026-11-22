@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-753a25f370e855feb16bf506",
+      "fullName": "Sksksmsmsn ananans",
+      "username": "mananansns",
+      "email": "kkajajaj@gmail.com",
+      "phone": "08121544848",
+      "passwordHash": "fe8ba505220bdead479a2ecfc9a842b9:65d48d8b29ee77978e10aa40c99b6e224281f424d6d1fdf9978357b2d8f54d089611dd375da434c102b868b5a0c1397062123f07ffeb7ee8d9e65e0713850061",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-3996afa6ba11b1c84c566bcb",
+      "createdAt": "2026-11-22T20:46:39.587Z",
+      "activatedAt": "2026-11-22T20:46:39.587Z"
+    },
+    {
       "id": "USER-355d852ee9262dda514d8dc0",
       "fullName": "Joyce anwuli opia",
       "username": "sunshine",
