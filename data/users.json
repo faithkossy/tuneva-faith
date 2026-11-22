@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-87095b779fc36c4e3ec82e56",
+      "fullName": "Faithylalala timothy",
+      "username": "faithybaby65",
+      "email": "coachyy@gmail.com",
+      "phone": "08166644542",
+      "passwordHash": "d1e6830dc175840e225e8ffe4cef04c6:aa245e79c8a8a89142cc4ec7fe31640cefb8365f60b32956c7a73489018574688eec82cc854b7c957aef802a3a9d411d5bd6c8866a9ef0d46c427903fdf8092c",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-427d64e2f24f8f7fb670b6f3",
+      "createdAt": "2026-11-22T23:01:51.172Z",
+      "activatedAt": "2026-11-22T23:01:51.172Z"
+    },
+    {
       "id": "USER-fc84b562228079cbd20e314d",
       "fullName": "Makamanssnsn jansnsn",
       "username": "lakakajsksk",
