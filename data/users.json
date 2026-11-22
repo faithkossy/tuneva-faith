@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-cd37491f188853eebfcef1dc",
+      "fullName": "Ozioma precious ohazuruike",
+      "username": "flur",
+      "email": "preciousohazuruike340@gmail.com",
+      "phone": "08126060675",
+      "passwordHash": "5b4a49a74e11e731b613d2ef72a03f38:89c2d2dc76e9b27e05f320ac458cad3de4a3b8e642359183370b26fbdf4c3812a072808ab15f25d2f01d0c2cbb960df48f2705aa21e89381a09580745584d792",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-0bb5ff8037576e48a947337e",
+      "createdAt": "2026-11-22T22:22:24.568Z",
+      "activatedAt": "2026-11-22T22:22:24.568Z"
+    },
+    {
       "id": "USER-d7fa02f7cb5d16de1a2d67a5",
       "fullName": "Ajayi Opeyemi",
       "username": "opeyemivictoria",
