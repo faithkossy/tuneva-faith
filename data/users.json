@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0605fbfa3d304ea74d0a2dc8",
+      "fullName": "Kossy thirty",
+      "username": "kossylicious",
+      "email": "kossybaby@gmail.com",
+      "phone": "08104445545",
+      "passwordHash": "cbdcf31bfd3f2ab64b4127943e4bfd8f:2ed65cc154c32cbbea1755c2b4a79ce7998c3fc43f66133f1900334be35c87774475cdf15b0932ee978b9ece5a5057d8afb2ef5819a4d6a8fea20348adf8cb79",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-5d2f06b8bbd603d86d25e92c",
+      "createdAt": "2026-11-22T19:41:59.949Z",
+      "activatedAt": "2026-11-22T19:41:59.949Z"
+    },
+    {
       "id": "USER-71420d06c79cd81c4cff4ff9",
       "fullName": "Jacinta henry",
       "username": "jacinbaby",
