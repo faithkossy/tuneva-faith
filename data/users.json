@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-9dd268831e07735531768283",
+      "fullName": "Jacinta Ugwuja",
+      "username": "chybabejacinta",
+      "email": "jacintaugwuja193@gmail.com",
+      "phone": "07072276662",
+      "passwordHash": "eb1bdf1f559b423519143cd4df8de0a4:7dd036629d3a37864eb4f35158be0800d50863c6766b758df33a6733fcae46588fbfafc976576adf1c0aff537db0bba65e98050298f8595d017aadbdbf62a1f3",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-c9522c0fc1b93d27229c63f0",
+      "createdAt": "2026-11-23T16:02:05.019Z",
+      "activatedAt": "2026-11-23T16:02:05.019Z"
+    },
+    {
       "id": "USER-8143d93d424020f71450bdb6",
       "fullName": "Godwin Ogbonnaya",
       "username": "ogbonnaya24",
