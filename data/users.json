@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-fe4c66a10fe37cd3076bf187",
+      "fullName": "Onuosa nkiru Joy",
+      "username": "joybby",
+      "email": "nkirujoy86@gmail.com",
+      "phone": "07065614163",
+      "passwordHash": "3bf1ed61f12c5a9e53b1fae1fd123c54:0f9713a43397eaf0fda334badeb9e72d3b0341465c0590f6a0d67fbe9e3b37f77456915e243320dab4657ce6d93064dc30496c38f046e415adcd17919a9b4602",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-45fe9e598a167eb8e22eb819",
+      "createdAt": "2026-11-23T09:12:52.678Z",
+      "activatedAt": "2026-11-23T09:12:52.678Z"
+    },
+    {
       "id": "USER-ca1e6af93c9305126d80b8da",
       "fullName": "Maureen odidika",
       "username": "maureen10",
