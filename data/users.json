@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-74039ebfea011fd164427da7",
+      "fullName": "Jemima ogah",
+      "username": "jemia",
+      "email": "maryogah622@gmail.com",
+      "phone": "07079230199",
+      "passwordHash": "76d4c827656ce270b41d56b55c0c6516:bc985285f29a33253741e7d3e1af35ce365f7a04a8bcf7c57953e5c2fc24b33f4dfb6a61be2ada28bcb631ba8f0fc2ce6fd8059a08559dcbd418e278d084eac9",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-65b0d7dd93ecf680f81371bf",
+      "createdAt": "2026-11-23T09:41:38.457Z",
+      "activatedAt": "2026-11-23T09:41:38.457Z"
+    },
+    {
       "id": "USER-4b52fe1b86f233010977e789",
       "fullName": "Michelle Doochivir Ikyon",
       "username": "michelle",
