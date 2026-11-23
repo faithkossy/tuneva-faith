@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-ca1e6af93c9305126d80b8da",
+      "fullName": "Maureen odidika",
+      "username": "maureen10",
+      "email": "maureendaniel1985@gmail.comi",
+      "phone": "08088791858",
+      "passwordHash": "a92f82ee5688fed553b50907d029a01b:821a13656ffa1c869d61fb2d0c7bcfc89774d21e0a1cb6dbd897800ba2ac45b00efe6b0cbe9b1ae7e83e90eb9b874f5e646242e3a7156331f85eead3fe8a622a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-93bd47d055c7d9d5ba1a34ee",
+      "createdAt": "2026-11-23T09:07:00.493Z",
+      "activatedAt": "2026-11-23T09:07:00.493Z"
+    },
+    {
       "id": "USER-0e9bb3cef66f281cbfbdf35d",
       "fullName": "Debby Johnson",
       "username": "deborah26",
