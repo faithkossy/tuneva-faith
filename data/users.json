@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0e9bb3cef66f281cbfbdf35d",
+      "fullName": "Debby Johnson",
+      "username": "deborah26",
+      "email": "agbontaendeborah505@gmail.com",
+      "phone": "08071573469",
+      "passwordHash": "37223feb8dd0824973a7380f79115f12:5d1aa2a1872c446d3bd538f278050bf4d1650efba7787360e372f0329c2923bf8d815637f63d12077d95b863abdb6a0c1ace6efd131d2812727c2b7fe0bd37af",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-ea56490498709f29d662da7f",
+      "createdAt": "2026-11-23T08:56:11.434Z",
+      "activatedAt": "2026-11-23T08:56:11.434Z"
+    },
+    {
       "id": "USER-843359bb2ab3bc043f3d574d",
       "fullName": "Samuel Ebenehi akowe",
       "username": "sammy",
