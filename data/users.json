@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-a850016322a99058f2fdeea5",
+      "fullName": "Abubakar Mohammed",
+      "username": "abubakar11",
+      "email": "abubakarmuha091@gmail.com",
+      "phone": "09157428789",
+      "passwordHash": "f49ec881e2e14cc684b76456379fc15b:ff87910b649b2e86801ffd0a1704602a011e7351a35833da1e36b969cf36cff9ec16008b6fb9d46764ac93af215ce071ed2cc82e93dd47b2976c2973eeeb7de5",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b46d2e78ab63ece409062dd9",
+      "createdAt": "2026-11-23T05:17:41.890Z",
+      "activatedAt": "2026-11-23T05:17:41.890Z"
+    },
+    {
       "id": "USER-4727e7287e584ac87481ef42",
       "fullName": "Princess Victor",
       "username": "princess1234",
