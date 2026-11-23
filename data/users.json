@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-aa8b8f44a735803f6c57967e",
+      "fullName": "Samuel omokator",
+      "username": "crayon",
+      "email": "highorianz@gmail.com",
+      "phone": "07018923848",
+      "passwordHash": "a5bb4be100a6c6d5dff022faf25504d5:2a82fcbd196180cd5ca8929bb76dec9deb2c3e0f46ea6e6893fcf760282a41e3065a57fbc8bdb4e74343874b723fbb045e28b854eee0a50ae0425db7d0c7384d",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-dce6d8d052e7ac4fad15bf23",
+      "createdAt": "2026-11-23T05:44:09.585Z",
+      "activatedAt": "2026-11-23T05:44:09.585Z"
+    },
+    {
       "id": "USER-8929db9e5c0c5b6619092e42",
       "fullName": "Jabiru Musa",
       "username": "musa99",
