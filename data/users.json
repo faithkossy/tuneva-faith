@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-3459d47141385c41c47d4154",
+      "fullName": "Angela eze",
+      "username": "angela",
+      "email": "ezeangela1992@gmail.com",
+      "phone": "08167353490",
+      "passwordHash": "660e86f65e99c135c18a443235174e9e:19da311bd1cd7b7463a7223171e50e027753c9fcff68dd855855a3134b8304f528f63facb365b16032466633d085b0f64409626d97be137a1b8f5cef4eb611bc",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f886169531f23bade85616f7",
+      "createdAt": "2026-11-23T18:24:26.706Z",
+      "activatedAt": "2026-11-23T18:24:26.706Z"
+    },
+    {
       "id": "USER-1482210b0785beeed69938f5",
       "fullName": "akowe Samuel",
       "username": "akowe091",
