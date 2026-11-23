@@ -1,6 +1,6 @@
 {
   "activationPrices": [
-    100,
+    5300,
     9300
   ],
   "tapPoints": 350,
@@ -8,5 +8,5 @@
   "dailyTapLimit": 3000,
   "videoReward": 1750,
   "withdrawalsEnabled": false,
-  "updatedAt": "2026-11-23T09:12:17.510Z"
+  "updatedAt": "2026-11-23T09:12:55.402Z"
 }
