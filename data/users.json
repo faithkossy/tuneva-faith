@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-feeb3c15cf249567cc3f8bec",
+      "fullName": "Joy obaji onyinyechi",
+      "username": "joyobaji44",
+      "email": "jobaji825@gmail.com",
+      "phone": "08036428605",
+      "passwordHash": "a58d650d142104879977f6d80eb8daee:545a215de52c27fdf3b323142acfe85133ae52428d0caf1b7b10bfe6e195fa57f49d3e060a6901b1f73087a7317cbd519d8236601aecf5554e98c3f5cd766dc4",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4a1d5c16fc0e2b92ed0a1ba4",
+      "createdAt": "2026-11-23T19:52:46.737Z",
+      "activatedAt": "2026-11-23T19:52:46.737Z"
+    },
+    {
       "id": "USER-3459d47141385c41c47d4154",
       "fullName": "Angela eze",
       "username": "angela",
