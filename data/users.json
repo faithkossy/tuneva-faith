@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-31245ad1dd6a30421a506536",
+      "fullName": "Ruth Felix",
+      "username": "ruvin",
+      "email": "felixruth629@gmail.com",
+      "phone": "08181278183",
+      "passwordHash": "b4437a10fe54e4add3e85148f6ef3d27:3a48259811e0bf1e58d22118190949037b557a2884c6880703b96661a1b713bcf5c797c74b56dd61a901e5a3d3946e846e0b8aeb1b155616c78c5537a87a185e",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-455a87b4d1d131b56bec7e37",
+      "createdAt": "2026-11-23T10:01:09.827Z",
+      "activatedAt": "2026-11-23T10:01:09.827Z"
+    },
+    {
       "id": "USER-74039ebfea011fd164427da7",
       "fullName": "Jemima ogah",
       "username": "jemia",
