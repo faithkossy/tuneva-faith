@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-6d155e36c5f02875cbe8537e",
+      "fullName": "Rose Emmanuel",
+      "username": "rosy",
+      "email": "mry44140@gmail.com",
+      "phone": "07019754100",
+      "passwordHash": "a4a0e173a356b1025ab6b172477c8333:76c02243e7831c9c4a5712aee8b30f85e26b65ace3da8c0010644a6a36833203440a83945d9f55ab76b6ec9969bd6b7b6797b76bc00be6921f88c7dd1f85879e",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f8c38e513aff1da3936407e3",
+      "createdAt": "2026-11-23T16:13:15.936Z",
+      "activatedAt": "2026-11-23T16:13:15.936Z"
+    },
+    {
       "id": "USER-9dd268831e07735531768283",
       "fullName": "Jacinta Ugwuja",
       "username": "chybabejacinta",
