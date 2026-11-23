@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-9d564c57b626f3eff3289956",
+      "fullName": "Dada Rafiat Abidemi",
+      "username": "matilda280526",
+      "email": "rafiatdada2019@gmail.com",
+      "phone": "09044783512",
+      "passwordHash": "c5443e1a05e0d7b7db8f5257197b60ba:eea0a22b7a16587a6f083c7a512b8480f1ee01311b13ef4fe48f343d85bb866c2ac4c78a27f95c0e71eba6e318527ce5c0a82d5d39601fcda3870cd4b0ff2bf4",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-313327b848e04d4b9a531bed",
+      "createdAt": "2026-11-23T14:14:56.471Z",
+      "activatedAt": "2026-11-23T14:14:56.471Z"
+    },
+    {
       "id": "USER-ec6b643a94dc990b2e354eff",
       "fullName": "Joseph naomi",
       "username": "naomi1",
