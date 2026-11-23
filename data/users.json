@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d35809bd51c54d0889eb7c90",
+      "fullName": "Isaac Jeremiah",
+      "username": "jid123",
+      "email": "jidsmith123@gmail.com",
+      "phone": "08074359226",
+      "passwordHash": "1f0d9755a94e63b06d53a30cf8549b68:1b5ba52bf9453efc3a48154219e1a1f85e067d835dcbb489a1e263f551fd105bcc10d385a1859b533b558ae1f3f79a27fcae7bb18abd0773c60bacd364c9c742",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-905e0e68e1d39dc5f1273890",
+      "createdAt": "2026-11-23T05:34:41.874Z",
+      "activatedAt": "2026-11-23T05:34:41.874Z"
+    },
+    {
       "id": "USER-a850016322a99058f2fdeea5",
       "fullName": "Abubakar Mohammed",
       "username": "abubakar11",
