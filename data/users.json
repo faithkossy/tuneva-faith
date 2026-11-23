@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-c9740ca5d8287fa35ac0a549",
+      "fullName": "lilian udung",
+      "username": "queenliliy",
+      "email": "udunglilian0903@gmail.com",
+      "phone": "07012587103",
+      "passwordHash": "583910722737f9aa2c54f91492459859:75a3250584520405cc939bc55239c6f64b9dae69cd5eeed019d9190a9164546b974c28ca516bb8ba4175ebb4ca53c6d5fd96bcac28decc06fd5cc701817c93a2",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a4cf3d6a1751532282b5416c",
+      "createdAt": "2026-11-23T14:30:49.583Z",
+      "activatedAt": "2026-11-23T14:30:49.583Z"
+    },
+    {
       "id": "USER-9d564c57b626f3eff3289956",
       "fullName": "Dada Rafiat Abidemi",
       "username": "matilda280526",
