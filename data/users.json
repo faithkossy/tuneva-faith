@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-5e7423d844e7a2e087f3489d",
+      "fullName": "Golden Patrick",
+      "username": "golden",
+      "email": "goldenp918@gmail.com",
+      "phone": "08101634143",
+      "passwordHash": "ff640e0b37d73e111cb7e5f5fa3db22f:42de4b8c32e2d960027dccda55782220781324082c5a7c95d4a39da3f476757abe18ce89fb178bad3c5735419b97431b0199af13d3c56357dbece0e7a6ef9217",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f600f732c6967a466eb3344e",
+      "createdAt": "2026-11-23T06:29:54.453Z",
+      "activatedAt": "2026-11-23T06:29:54.453Z"
+    },
+    {
       "id": "USER-aa8b8f44a735803f6c57967e",
       "fullName": "Samuel omokator",
       "username": "crayon",
