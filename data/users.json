@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-42715083b12c56a89b4be157",
+      "fullName": "Ajimuda gift oritseweyimi",
+      "username": "sapphire",
+      "email": "oritseweyinmigift0@gmail.com",
+      "phone": "09166028928",
+      "passwordHash": "d0b462ccd096e3fc8ec8628264588b29:61210707c66040ec4a5cc3532d146a6d6da704994f74fa800f67b5543f9e30d8a5edec22f8902c08e784f92b6ea9fb11e79466d56a654b94fe8188c51000bc90",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-e113d752d4b61ef728ff4c3e",
+      "createdAt": "2026-11-23T20:15:49.947Z",
+      "activatedAt": "2026-11-23T20:15:49.947Z"
+    },
+    {
       "id": "USER-d5f9af7026482354f2b4b62f",
       "fullName": "Ch2izoba  lynda",
       "username": "chizzy",
