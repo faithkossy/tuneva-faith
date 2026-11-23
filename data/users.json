@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d5f9af7026482354f2b4b62f",
+      "fullName": "Ch2izoba  lynda",
+      "username": "chizzy",
+      "email": "chizzyogbuzuru@gmail.com",
+      "phone": "09031168228",
+      "passwordHash": "309dcb454a8f45c0949a7f92d98bc713:b9dbacecd10e148db70346c1bc075e099d63764b07edd838b50db352eb0a672d2070271bf02d96d8a72a55552148c896d6eb27bd962600381ad5f2ecaedb4618",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-af0c6ee9ef32a0def568e993",
+      "createdAt": "2026-11-23T20:15:38.453Z",
+      "activatedAt": "2026-11-23T20:15:38.453Z"
+    },
+    {
       "id": "USER-feeb3c15cf249567cc3f8bec",
       "fullName": "Joy obaji onyinyechi",
       "username": "joyobaji44",
