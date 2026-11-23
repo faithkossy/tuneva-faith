@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-1482210b0785beeed69938f5",
+      "fullName": "akowe Samuel",
+      "username": "akowe091",
+      "email": "olowolagbaakowe@gmail.com",
+      "phone": "09134542385",
+      "passwordHash": "7b1713700555053cbfeca26af66c8772:3ef99da05e86e4d64dd9220036add70d258cfed63ee7775c8ec4ebfccc604ca1d523eb2a3987a52c59968bc107f7666f56bdb8b24f8d634796fb739080ce4618",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-9f18913bf2fdb34099f163f9",
+      "createdAt": "2026-11-23T17:16:30.043Z",
+      "activatedAt": "2026-11-23T17:16:30.043Z"
+    },
+    {
       "id": "USER-6d155e36c5f02875cbe8537e",
       "fullName": "Rose Emmanuel",
       "username": "rosy",
