@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-4b52fe1b86f233010977e789",
+      "fullName": "Michelle Doochivir Ikyon",
+      "username": "michelle",
+      "email": "michelledoochivir@gmail.com",
+      "phone": "07048938047",
+      "passwordHash": "15ef02668188bf02a484239ecfd65f25:db6e848a8512c67597d70c1b0c19c5148f7dd1fbda020d85605816284f75e1eb44201c2d8f03932c430ec3886b9712c5138566005e620fb7110653621e71bb9d",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-3a869d5fa29035cab7135ff6",
+      "createdAt": "2026-11-23T09:19:10.383Z",
+      "activatedAt": "2026-11-23T09:19:10.383Z"
+    },
+    {
       "id": "USER-fe4c66a10fe37cd3076bf187",
       "fullName": "Onuosa nkiru Joy",
       "username": "joybby",
