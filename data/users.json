@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-71cbc82c86be536e124c45b2",
+      "fullName": "Lawrence Kayang",
+      "username": "larry12",
+      "email": "larrykayang123@gmail.com",
+      "phone": "07068628763",
+      "passwordHash": "85f7ee0dca1d4fad7d22380180fd6a7b:5db59e25cf8824bc2cb5ba6cb32bbfe6a46ca539350ce02a846e80e4c2d55a10b9349f0f8064779d913d74feec316e8c3175287c035af93dca9c220266d6f2c5",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-70543ede868faa268700f63b",
+      "createdAt": "2026-11-24T12:40:16.158Z",
+      "activatedAt": "2026-11-24T12:40:16.158Z"
+    },
+    {
       "id": "USER-8b20ca5c0a931e0d1f305729",
       "fullName": "SAMUEL PAUL",
       "username": "spfx",
