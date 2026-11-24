@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-5b3a5511d928772d20224d7b",
+      "fullName": "Fatimah Ibrahim",
+      "username": "teemarh",
+      "email": "fakiss100@gmail.com",
+      "phone": "07048198068",
+      "passwordHash": "bd88ce57137c3c33540cb3332923ea81:07e2cf68a00addf212d3cae445b15b50568707245adc4cacfd84500a2738c87616a12fc5b92ac0307690178c50149800d0ffc934c9da702629de5972a817737e",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-6b33d492d84a482a97887138",
+      "createdAt": "2026-11-24T18:56:24.703Z",
+      "activatedAt": "2026-11-24T18:56:24.703Z"
+    },
+    {
       "id": "USER-a091f008db6d5e1a73849eb4",
       "fullName": "Success Madeira",
       "username": "madeira",
