@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-3bb1f90d3c3c01cf1e83cbe7",
+      "fullName": "Chioma  nnamani",
+      "username": "chioma12",
+      "email": "kasiefavour088@gamil.com",
+      "phone": "09011116452",
+      "passwordHash": "eed8e38f0cbeff2bf7df0bd81341f1af:162fc160742c94131fd11592d13bce67d6a8396c1d17ca024e86bf8cf5c5bbd64bde5b4aace039175cb2fe6d54099f69668786201408c80089845f1d1b394f14",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-eb1fbad2677bdb21aa98039d",
+      "createdAt": "2026-11-24T16:06:03.465Z",
+      "activatedAt": "2026-11-24T16:06:03.465Z"
+    },
+    {
       "id": "USER-28952768e68da762a08eb5b7",
       "fullName": "Murtala Ibrahim",
       "username": "murty",
