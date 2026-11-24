@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0a0014a2fbe77b936b84b88a",
+      "fullName": "Bright  idongesit",
+      "username": "bright1234",
+      "email": "owonambright45@gmail.com",
+      "phone": "09125884183",
+      "passwordHash": "b8db9c0407a9224f6f0d57e3eacd12ad:abebd423c445669f724b6722ca3d7cdd0a11f35a321fddb9d170c2ccd494d1583dc493342c9f17042bef9a5a29667a0ce6d16376cd9731e4916e3a51283b84ef",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-3aef53bccb78e44b3864d58e",
+      "createdAt": "2026-11-24T17:19:38.975Z",
+      "activatedAt": "2026-11-24T17:19:38.975Z"
+    },
+    {
       "id": "USER-e5eeb83e11e693b78ccee62c",
       "fullName": "Abimbola Osadolor",
       "username": "bimbo96",
