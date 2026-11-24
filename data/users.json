@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-98b68ea0c62894f0bb5d6c70",
+      "fullName": "Maureen Ebolor",
+      "username": "maureenstyle",
+      "email": "favournap5050@gmail.com",
+      "phone": "09033977353",
+      "passwordHash": "ecde01f1224aa4767deb425c07e35d88:c8600fc1bc1ef3ff00cdd31e980624d5ab349e7397879863f431f83c445c74669775ba06dd9450be65a3279179fa08c0fd910cd6ce1dca38143b7f91c1909efc",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f61c7cb93f5d6c3fa5ce8155",
+      "createdAt": "2026-11-24T10:55:44.577Z",
+      "activatedAt": "2026-11-24T10:55:44.577Z"
+    },
+    {
       "id": "USER-df11f5ef531fb768528a8f4c",
       "fullName": "Adeyemi Martha",
       "username": "martha",
