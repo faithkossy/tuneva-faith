@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-15624343fbba7044333d60f2",
+      "fullName": "Obilom deborah",
+      "username": "naomi_obilom",
+      "email": "deborahobilom06@gmail.com",
+      "phone": "09025855807",
+      "passwordHash": "dc5209b100ed8f423369b6f0cb1ed82d:09131ad54c193b864f4b0725616336d92e55703d219fd3910c5f30d35eb9d59808b5224b2e1b118b3607a47e7a2433f48d7e3402e4d125421f215c8296cfb147",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-42b34f657c45a207d255eebf",
+      "createdAt": "2026-11-24T12:18:27.081Z",
+      "activatedAt": "2026-11-24T12:18:27.081Z"
+    },
+    {
       "id": "USER-6fef3371cb8c20a16f3c5242",
       "fullName": "Adams Elizabeth",
       "username": "elizabeth",
