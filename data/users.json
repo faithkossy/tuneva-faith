@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-28952768e68da762a08eb5b7",
+      "fullName": "Murtala Ibrahim",
+      "username": "murty",
+      "email": "murtalaibrahim4460@gmail.com",
+      "phone": "09165184460",
+      "passwordHash": "5f2d4c4f10a7d87cd7221973eb84e0ae:16b20c2313c5089625265e201221d2055a8ae8163a59d61f20ebc542905d3e2f8cd65fcae25cc603c4a6aa86047c1adff6f3be736b09a62f028ee9e768fe680d",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-85e89e98081ae5e71bc33118",
+      "createdAt": "2026-11-24T15:57:30.913Z",
+      "activatedAt": "2026-11-24T15:57:30.913Z"
+    },
+    {
       "id": "USER-a63e325c62511c760f5ee143",
       "fullName": "Simon Oyibo",
       "username": "seawad120",
