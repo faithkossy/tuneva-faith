@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-9b5d55b9725cb0d1b51ec03b",
+      "fullName": "Udochi Jennifer chima",
+      "username": "udochi7791gold",
+      "email": "udochijennifer9@gmail.com",
+      "phone": "09135393239",
+      "passwordHash": "02a477ba2c59258c7b25beadef5d44e2:f2642e6a71e601cf559620ca3e2f62f19553f379f27b4736a23b25b88637ac9a0d8445a7c02693a98272bf665aa969887245a565df4b1f18af5f5ac5af1cbae9",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-bbb8055e087c089dc71269e0",
+      "createdAt": "2026-11-24T11:01:28.003Z",
+      "activatedAt": "2026-11-24T11:01:28.003Z"
+    },
+    {
       "id": "USER-98b68ea0c62894f0bb5d6c70",
       "fullName": "Maureen Ebolor",
       "username": "maureenstyle",
