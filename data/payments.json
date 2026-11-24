@@ -6,7 +6,6 @@
       "username": "jidsmith",
       "email": "jerry123@gmail.com",
       "phone": "09120349470",
-      "passwordHash": "17765c2e0da6c202827750cbd6482aea:71e0485c5db29af4bf4b691f66147683d0b42ab06e0fd9a8624f6b411e35974a6c13bdefbb5817c70243a1489f32619cf5d261f455c807765030c2689f8d53ca",
       "amount": 5300,
       "amountKobo": 530000,
       "method": "paga",
