@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-eaea60ece3726d5a11068453",
+      "fullName": "Benedicta Nwankwo",
+      "username": "benedicta5578",
+      "email": "benedicta999@gmail.com",
+      "phone": "09154245875",
+      "passwordHash": "a904ba47537ab20e987ad5148b822e21:1aa80c14731cb81d7eb5b2a77955dfbf2b6e3832643f1dbb90e19a8307440b0bacf52943a9ab2dd2d7e011434582fa0acef8bdd8e457539f4eb75c92f2ed43c4",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-0950f7f36a9e5d0f102389cf",
+      "createdAt": "2026-11-24T07:27:14.094Z",
+      "activatedAt": "2026-11-24T07:27:14.094Z"
+    },
+    {
       "id": "USER-0b6532cf430047c036cf8a8f",
       "fullName": "Jennifer Abutu",
       "username": "jxternas",
