@@ -1,5 +1,5 @@
 {
-  "balance": 540300,
+  "balance": 545600,
   "currency": "NGN",
   "processedPaymentIds": [
     "PAY-TUNEVA-59b882aa9585ca3b1843a8e6",
@@ -80,6 +80,7 @@
     "PAY-TUNEVA-21a68cd35f38c0b0396ee7e0",
     "PAY-TUNEVA-3aef53bccb78e44b3864d58e",
     "PAY-TUNEVA-143c3fac23a955325998e128",
-    "PAY-TUNEVA-cd9962a23f666d0f9e5a8964"
+    "PAY-TUNEVA-cd9962a23f666d0f9e5a8964",
+    "PAY-TUNEVA-6b33d492d84a482a97887138"
   ]
 }
