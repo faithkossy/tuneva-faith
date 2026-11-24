@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-c8fc1ca0765a443b10972ed4",
+      "fullName": "Muizah motunrayo",
+      "username": "muizah",
+      "email": "mueeezahmoturayo@gmail.com",
+      "phone": "08104958401",
+      "passwordHash": "cfe819db40a07f7ad96d001d2cb9475f:135434071dde30c2313fb0665702385e460ec0bf3249883e877b607e5bf6d52cecb15376d70e03df004720cbe97afe7cdb585b2cbeee60b02fb7e95b140ded16",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-5565934c26c2bb5825476089",
+      "createdAt": "2026-11-24T13:23:56.715Z",
+      "activatedAt": "2026-11-24T13:23:56.715Z"
+    },
+    {
       "id": "USER-a8c1657e1a5f4f6f5d58fb18",
       "fullName": "TEGA 001",
       "username": "tega1",
