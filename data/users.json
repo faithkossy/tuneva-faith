@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-48a5e6e3df55e5f3c127dd2d",
+      "fullName": "Michael  Okom",
+      "username": "obuogor",
+      "email": "okommichael01@gmail.com",
+      "phone": "09043800833",
+      "passwordHash": "4a5220edd111a8a919087e995096fd29:9439d4565e2f6ed9c09075ee48f03c3b9fb369bfa5c365a971921843ec9a7267d155ebfdbe6837a566c3eb22f9c6ca1c38e4bb0e7a543a7fd8834d7986e79710",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-46847178b15ae17c3da29807",
+      "createdAt": "2026-11-24T08:20:38.379Z",
+      "activatedAt": "2026-11-24T08:20:38.379Z"
+    },
+    {
       "id": "USER-eaea60ece3726d5a11068453",
       "fullName": "Benedicta Nwankwo",
       "username": "benedicta5578",
