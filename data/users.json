@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-b081c59b9f27ecf6adb48c06",
+      "fullName": "Precious chisom",
+      "username": "som",
+      "email": "akandusolomon81@gmail.com",
+      "phone": "07063996027",
+      "passwordHash": "c23e082612e00b3005f4a9eacf87cf0d:5761843422d78e70ef8e4853c7179f4e5277d3b3c89e9dccc6986117781801a9afe3591a2301e8633653041b6f483b3ae8a0f0037ae440ba8d501e6fd3da1776",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-e2c256003e07c5a2afae0f44",
+      "createdAt": "2026-11-24T14:05:02.537Z",
+      "activatedAt": "2026-11-24T14:05:02.537Z"
+    },
+    {
       "id": "USER-827a4483faa3e842a2822008",
       "fullName": "Ojeaga victory",
       "username": "victory1234",
