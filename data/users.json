@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-a63e325c62511c760f5ee143",
+      "fullName": "Simon Oyibo",
+      "username": "seawad120",
+      "email": "simonoyibo@gmail.com",
+      "phone": "09021864910",
+      "passwordHash": "024c0ca7d6b965a7bce27cec3d63bbd6:395aae1f6f24aa50e6aad18536d7de113ce069b27fb96853396bee0a0d80e87a48fb276a7750a918c5a0ec6fa76668a3e60c2edc126075495c59ec3e37562462",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-6f0f2b23c45d763ac9d209c1",
+      "createdAt": "2026-11-24T15:06:51.748Z",
+      "activatedAt": "2026-11-24T15:06:51.748Z"
+    },
+    {
       "id": "USER-febf779fd51dab4843add7cc",
       "fullName": "Emezie Peace",
       "username": "emezie",
