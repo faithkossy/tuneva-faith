@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-18b9eb3d442d6a39fa450c00",
+      "fullName": "Blessing Oludiji",
+      "username": "blessing",
+      "email": "blessingoludiji@gmail.com",
+      "phone": "08071576102",
+      "passwordHash": "6afbe42f3b8f3cf905202a86cb5da591:8929b2f53b5fb4e6c882c84a316535f9d6bf93aea5168dbd7bf6c62270fd8e1fb9b4a56f5a93a9093c66136a960c09ea567e294bbf0c48126a47064e56daa56f",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-ade47633e2bae0368a0ce633",
+      "createdAt": "2026-11-24T10:42:00.106Z",
+      "activatedAt": "2026-11-24T10:42:00.106Z"
+    },
+    {
       "id": "USER-5310f1b0d2a4dda80635b2a5",
       "fullName": "Hannah Bawa",
       "username": "hannylove",
