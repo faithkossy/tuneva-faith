@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-8b20ca5c0a931e0d1f305729",
+      "fullName": "SAMUEL PAUL",
+      "username": "spfx",
+      "email": "mrdoingslord@gmail.com",
+      "phone": "09044372291",
+      "passwordHash": "be4a0dcba0ac39cc23a1d15d2a817114:ae426bb7b8ac3d48e5cf85987193e57e45e73dfcaabf02eda09016f048016cb838e00e6b21864f0956438a19d2c3dccf656f7a4ecce154c6e035a4caff02f4fd",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-7dc1fd68dc4656b827f7dfea",
+      "createdAt": "2026-11-24T12:28:50.625Z",
+      "activatedAt": "2026-11-24T12:28:50.625Z"
+    },
+    {
       "id": "USER-69cb5d854634781b1cf83a75",
       "fullName": "Ngwama Favour",
       "username": "beauty",
