@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-6232c199bd37cf1e6530ddb9",
+      "fullName": "Adelabu adesewa",
+      "username": "adesewa",
+      "email": "adelabuadesewa62@gmail.com",
+      "phone": "08027273007",
+      "passwordHash": "3ce327fd2db2050e40f23766fccbfa30:d52be88b8a72a59e817fb3bfe2b0089563abd6894dbf13773e19b1ba1e94afbcfedef367c022dabfbce6e5187a942604042fe9ecee8277f5ac49944bd9c0428a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-540bab35ad366824fc670cbd",
+      "createdAt": "2026-11-24T13:29:45.688Z",
+      "activatedAt": "2026-11-24T13:29:45.688Z"
+    },
+    {
       "id": "USER-c8fc1ca0765a443b10972ed4",
       "fullName": "Muizah motunrayo",
       "username": "muizah",
