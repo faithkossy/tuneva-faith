@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-997d36552e20ee1903a63234",
+      "fullName": "Ella frank",
+      "username": "ella2255",
+      "email": "ellasunday115@gmail.com",
+      "phone": "08026770731",
+      "passwordHash": "ec037ffa04f9a3ee9d5733ec86da20f4:34f329611050a793dedfc4ff1d592eeeb0ba43e38d93142617b79df5e375be1faa98d740ddcf347b0b0763f3597560642284a3c4f519c48aa2d6b96152dcbd66",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-ed7fa15e42f0dcab5687c977",
+      "createdAt": "2026-11-24T14:39:30.127Z",
+      "activatedAt": "2026-11-24T14:39:30.127Z"
+    },
+    {
       "id": "USER-587b9989401b00c7a6585134",
       "fullName": "Precious Ibeawuchi",
       "username": "ibeawuchi",
