@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d2cf324c2bdad5a2b21ed2e7",
+      "fullName": "Chinyere Azuka Ezenwata",
+      "username": "nyere2",
+      "email": "chinyereazubike4@gmail.com",
+      "phone": "08063346762",
+      "passwordHash": "e71c8b5140038a4d7a637f50f3ac0499:279b006577bc4d18622dbf60e04d97633c75ff4f2210428fcf0b67288e737a2345d3d7f2b9f31e4e7855afaf23513fb6ca3b7595173455ac779e15d7239e0acb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-c888318453dd25cd3168a5d9",
+      "createdAt": "2026-11-24T10:08:23.820Z",
+      "activatedAt": "2026-11-24T10:08:23.820Z"
+    },
+    {
       "id": "USER-b9e2de673b8111745849ab07",
       "fullName": "Ibrahim Yusuf",
       "username": "lancoins",
