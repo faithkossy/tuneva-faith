@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-22bf519858fabaf4987ec65b",
+      "fullName": "Daniel Samuel",
+      "username": "sty",
+      "email": "stylishbrown152008@gmail.com",
+      "phone": "09164139459",
+      "passwordHash": "97123814e0131b909034790653ccc43a:aa2eb4a94e6c0aed12252d818a02eb806194277383bed4939756061d0335d63210d9889385e0de0827fd3ac83be4caca55b485dd2543000135db2099766871be",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4daedc01892c0ba4bb83ff07",
+      "createdAt": "2026-11-24T08:30:39.880Z",
+      "activatedAt": "2026-11-24T08:30:39.880Z"
+    },
+    {
       "id": "USER-48a5e6e3df55e5f3c127dd2d",
       "fullName": "Michael  Okom",
       "username": "obuogor",
