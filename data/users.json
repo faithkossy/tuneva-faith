@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-b9e2de673b8111745849ab07",
+      "fullName": "Ibrahim Yusuf",
+      "username": "lancoins",
+      "email": "iy4453030@gmail.com",
+      "phone": "07048721455",
+      "passwordHash": "3e673a018fa1c389e0401e3f0e02d77a:1335abb8d6f57d8f7ed7d0c7d2c34a10814cd4c64457022528474272af5ec3454d7659ec5aa713d053222db3ba3c3c392b9139b47cbd517634bc57ab8f5c623c",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-8c5de7025feb6c888fcc0bed",
+      "createdAt": "2026-11-24T09:00:48.721Z",
+      "activatedAt": "2026-11-24T09:00:48.721Z"
+    },
+    {
       "id": "USER-22bf519858fabaf4987ec65b",
       "fullName": "Daniel Samuel",
       "username": "sty",
