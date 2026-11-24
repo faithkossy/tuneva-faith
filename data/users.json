@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-891d1abbe2e1d41e69c3d375",
+      "fullName": "Yinka Adex",
+      "username": "yinka",
+      "email": "rukayatomowumi91@gmail.com",
+      "phone": "08061140097",
+      "passwordHash": "103153ad35d60e8434334bd783c5c8b0:494acfb7fb086aa6074db1ace63aa4bc0218929f96d2f9f6a5b9e56e1f8e8f8c395e14b4dd802b19204afe4fec6b389bf11669652806c8830f299b53ea2a23d9",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-1cd427a0fb759e95e3c00114",
+      "createdAt": "2026-11-24T11:22:42.251Z",
+      "activatedAt": "2026-11-24T11:22:42.251Z"
+    },
+    {
       "id": "USER-4cae49c50276fcadcfe912a8",
       "fullName": "King  John",
       "username": "ogbonnaya12",
