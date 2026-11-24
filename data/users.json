@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-bd14ec185079ace51e51b84e",
+      "fullName": "Stephanie Okonkwo",
+      "username": "stephbarbie",
+      "email": "bestvivamum@gmail.com",
+      "phone": "08035448458",
+      "passwordHash": "8d9944b84be21076c5a1a3251ab15e23:82905b8b6344a03f270c1f92117eacea54e9a8f25fabca55068443600ce6d963ea91284d2dc7dffb3d7140fd821eb2a0ee57f066e9a58b1c75afe21cc846f51d",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f71ab42b41cab1a56c8fe730",
+      "createdAt": "2026-11-24T14:06:29.214Z",
+      "activatedAt": "2026-11-24T14:06:29.214Z"
+    },
+    {
       "id": "USER-b081c59b9f27ecf6adb48c06",
       "fullName": "Precious chisom",
       "username": "som",
