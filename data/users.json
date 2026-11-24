@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-b380632f3aa3f5b19a3be2a3",
+      "fullName": "Jidsmith daniel",
+      "username": "jidsmith",
+      "email": "jerry123@gmail.com",
+      "phone": "09120349470",
+      "passwordHash": "17765c2e0da6c202827750cbd6482aea:71e0485c5db29af4bf4b691f66147683d0b42ab06e0fd9a8624f6b411e35974a6c13bdefbb5817c70243a1489f32619cf5d261f455c807765030c2689f8d53ca",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-26c4b0058ee2b8675d139e9f",
+      "createdAt": "2026-11-24T20:10:24.607Z",
+      "activatedAt": "2026-11-24T20:10:24.607Z"
+    },
+    {
       "id": "USER-55a463695dddfee66279fab5",
       "fullName": "Francis Rosemary",
       "username": "rossy",
