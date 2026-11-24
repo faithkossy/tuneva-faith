@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-df11f5ef531fb768528a8f4c",
+      "fullName": "Adeyemi Martha",
+      "username": "martha",
+      "email": "marthaadeyemi6@gmail.com",
+      "phone": "09138946839",
+      "passwordHash": "f082c8aa16a3d40a63351fe29f5309ca:e73b3d3961dd5894a2fb67ebe5aff2e778ef3c907bfd85e8b6a0843512e082261cb709f2e9e1cb15a6413c27fec813ba4ed28e7173a6f7e6dda8efb108eec082",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-e0cc90f8afcf57d179dbbe37",
+      "createdAt": "2026-11-24T10:51:22.349Z",
+      "activatedAt": "2026-11-24T10:51:22.349Z"
+    },
+    {
       "id": "USER-82f09569f10ced18b1386d69",
       "fullName": "Tayo Agbontaen",
       "username": "tayo24",
