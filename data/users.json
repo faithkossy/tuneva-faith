@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-69cb5d854634781b1cf83a75",
+      "fullName": "Ngwama Favour",
+      "username": "beauty",
+      "email": "favourchukwuma853@gmail.com",
+      "phone": "09163372440",
+      "passwordHash": "5e4ffaeea2864aa07d7126962de6a06a:f40610496e78cb2229fdcb5542bc68f442d5261589ae0c3a3b31aff286498ed202f9623a815bbe99146f48edb30d516382feb48eb4ab5f4187fb56a19ac23121",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-f1d58a307cbee664e80002a2",
+      "createdAt": "2026-11-24T12:24:59.290Z",
+      "activatedAt": "2026-11-24T12:24:59.290Z"
+    },
+    {
       "id": "USER-15624343fbba7044333d60f2",
       "fullName": "Obilom deborah",
       "username": "naomi_obilom",
