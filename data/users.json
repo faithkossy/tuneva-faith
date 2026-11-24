@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-82f09569f10ced18b1386d69",
+      "fullName": "Tayo Agbontaen",
+      "username": "tayo24",
+      "email": "tayoagbontaen@gmail.com",
+      "phone": "08071647167",
+      "passwordHash": "c00ea3aff54239eef2fbb8eac6ad5770:fe42ef810e9686a6137d8a8e9db8a0700c88ace4ab1c0bd1942e2d9eb11f7b0dcbff7dec5c5137a8a6ed47f177c61ece656b56816a3a891a437c9a6f8171535f",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-8ba5cf8cef864a981e794178",
+      "createdAt": "2026-11-24T10:45:58.060Z",
+      "activatedAt": "2026-11-24T10:45:58.060Z"
+    },
+    {
       "id": "USER-18b9eb3d442d6a39fa450c00",
       "fullName": "Blessing Oludiji",
       "username": "blessing",
