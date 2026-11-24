@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-f12efcd75a7762ce292b0265",
+      "fullName": "Rosemary chima",
+      "username": "chima1234",
+      "email": "rosemarychima736@gemail.com",
+      "phone": "08130343954",
+      "passwordHash": "e93542a0f56bfa6cc70bd20e14135250:00e28826dfab1ad987064ee7a1330ebdc1072ee3758fb1d8e5f753acfff725fc8e582bfb2fbb2d8278a84c27f0774c8efbba225d9f71bea842f0a0498130713c",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4d41b96d1d0424d4737530a8",
+      "createdAt": "2026-11-24T19:05:07.307Z",
+      "activatedAt": "2026-11-24T19:05:07.307Z"
+    },
+    {
       "id": "USER-5b3a5511d928772d20224d7b",
       "fullName": "Fatimah Ibrahim",
       "username": "teemarh",
