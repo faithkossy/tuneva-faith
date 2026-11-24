@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-ae28118205654e180cc84e28",
+      "fullName": "Ayobami Sikiru",
+      "username": "ayomi29",
+      "email": "jemzybear29@gmail.com",
+      "phone": "07010296884",
+      "passwordHash": "bafd8da8d3d76b2da8b0ab0a8db96b53:791bf34e5ca94d38d766da51675e19c67ad82f3b61cad0e12045ea958be3345be66b0d82ea1f7676c65d210a4f34803373c21908f9613a3ad4dc476a5fd006a9",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-6edd8c31829b8d1bab9be4fa",
+      "createdAt": "2026-11-24T12:40:37.975Z",
+      "activatedAt": "2026-11-24T12:40:37.975Z"
+    },
+    {
       "id": "USER-71cbc82c86be536e124c45b2",
       "fullName": "Lawrence Kayang",
       "username": "larry12",
