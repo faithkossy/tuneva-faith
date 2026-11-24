@@ -14926,12 +14926,12 @@
     },
     "USER-feeb3c15cf249567cc3f8bec": {
       "balance": 8250,
-      "todayDate": "2026-11-23",
-      "todayEarnings": 8250,
+      "todayDate": "2026-11-24",
+      "todayEarnings": 0,
       "tapPoints": 10500,
       "tapCount": 30,
-      "tapDailyPoints": 10500,
-      "tapDailyEarnings": 3000,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 5250,
       "claimedVideos": [
         "bigger-joyrides",
