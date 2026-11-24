@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-842b75f1144ab2656f151fc0",
+      "fullName": "Esther Sylvester",
+      "username": "slyvesteresther2026",
+      "email": "slyvesteresther2026@gmail.com",
+      "phone": "07073313724",
+      "passwordHash": "490ed65218163e84b4873998af9a771d:91f5e19877740c39a85e9f46fdd3a50e8c94a09ca8c1ec7eca41eb665ce54fc04f20930b333f1d334cdd42589fc88675f52928b888bb31e8744ed88071cef1d8",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-971b2149348113555e0b6600",
+      "createdAt": "2026-11-24T03:08:42.771Z",
+      "activatedAt": "2026-11-24T03:08:42.771Z"
+    },
+    {
       "id": "USER-075847522a58396cf5a81207",
       "fullName": "Ibiam patience orji",
       "username": "pat_1234",
