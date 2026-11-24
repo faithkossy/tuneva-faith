@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0f90475da4104301798a6eef",
+      "fullName": "Chiemeka gift",
+      "username": "esthergift2008",
+      "email": "chiemekagift2008@gmail.com",
+      "phone": "07078186509",
+      "passwordHash": "af8103ed4cacc3aa53fd51aa4fc7ea61:a1acd691611766cd93b2eac8a7f50eb1ef8d9c17f85e033649101a35161dd13b8b3c03298ce0320b7bb63b1ea47b39ac764778de32c4e8de1ca5c59a917fde90",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-ace1ca815b0c5bce8073dae5",
+      "createdAt": "2026-11-24T20:17:05.456Z",
+      "activatedAt": "2026-11-24T20:17:05.456Z"
+    },
+    {
       "id": "USER-b380632f3aa3f5b19a3be2a3",
       "fullName": "Jidsmith daniel",
       "username": "jidsmith",
