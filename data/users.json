@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-e014f45a640a74097e797a29",
+      "fullName": "Excellent osifo",
+      "username": "deon",
+      "email": "excellentdeon12@gmail.com",
+      "phone": "09011293249",
+      "passwordHash": "6102475ae0a4f5a6ac98af0e9211af60:a089f1537392723999a44915834d43aa3eab4ec65a9d529d650d2a0cf212442c89358ddd245e8ca3e9c7abef9e4900de1228192ca26534effe0c6ab93abfc4e8",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a06be0f78b7f1eb5c13a5db1",
+      "createdAt": "2026-11-25T07:29:38.499Z",
+      "activatedAt": "2026-11-25T07:29:38.499Z"
+    },
+    {
       "id": "USER-5f2a7db9c003060282859fb1",
       "fullName": "Oyohowo Etime Effiong",
       "username": "ongod",
