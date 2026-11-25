@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-4fcccead8ab76c7de055a59c",
+      "fullName": "Danielle Kenneth",
+      "username": "pweety",
+      "email": "pweetydaniella530@gmail.com",
+      "phone": "07011870169",
+      "passwordHash": "8251ef4ce79770d458d443d28431015b:80465f01be2aceb98eeda6ebaa81cec88710b89de046a22f3127aa746e8402f15fd79c2796de7dd180947f107b0032d996668e97a11035eaef49c1cd6fa47742",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-de0ca5953a9a99c317959ada",
+      "createdAt": "2026-11-25T21:14:50.351Z",
+      "activatedAt": "2026-11-25T21:14:50.351Z"
+    },
+    {
       "id": "USER-8feac016dc9dd1ea73eac1e7",
       "fullName": "Achionye gold",
       "username": "65046132",
