@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-f11316052e45399981796c0f",
+      "fullName": "David Matthew",
+      "username": "davidoabasi",
+      "email": "davidoabasi@gmail.com",
+      "phone": "09078475638",
+      "passwordHash": "1eb54ebb36c7e492de56a5382c85212f:e14aad58290e47f1ed04eedc7b9bc5f57967ce2f1ee751b22aa358025ea8b07d821239208279574fa83a7e9926a3ed50a1bb63b378a4478aee123c49b2c024a5",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-466028b4832b40c23d576df7",
+      "createdAt": "2026-11-25T21:29:49.562Z",
+      "activatedAt": "2026-11-25T21:29:49.562Z"
+    },
+    {
       "id": "USER-4fcccead8ab76c7de055a59c",
       "fullName": "Danielle Kenneth",
       "username": "pweety",
