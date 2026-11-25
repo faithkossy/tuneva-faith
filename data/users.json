@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0da5f3f09d7446035277aa6c",
+      "fullName": "Olamide Ariyo",
+      "username": "mideboi",
+      "email": "riavoicto@gmail.com",
+      "phone": "09064720125",
+      "passwordHash": "b6f8be29d8a2971f42772ad90ad980e1:ae36de5391d73dcdb71525cbb45e2adbcc53e420dc9d68753ddcac206a6fd354cbb446fdccaa69aede9be0335268d0017ac76d1ad2d57cac67b0872d863a953b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-dc7a419c0338f18244f6bc8c",
+      "createdAt": "2026-11-25T01:23:56.400Z",
+      "activatedAt": "2026-11-25T01:23:56.400Z"
+    },
+    {
       "id": "USER-1e799a86b5b6c96ac4ba8b24",
       "fullName": "mary anyiji",
       "username": "marypepperoni",
