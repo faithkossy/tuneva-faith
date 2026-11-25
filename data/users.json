@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-eec5ddc10b3d0c3601d7238e",
+      "fullName": "Jason Ubah",
+      "username": "jaywize_15",
+      "email": "adeleudokaubah@gmail.com",
+      "phone": "09060271845",
+      "passwordHash": "fedc04080e17f0fdf0c2186c36303714:50ff013c761f5cfbf7a222aad5b4569663a8b195cf620ed1a179eea666bc598c95f3ef2a86d4f1496e8e5b98947f850ba8946d3d1ea9ffec92420df640ec4d59",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-37be86b967559c33855b0846",
+      "createdAt": "2026-11-25T19:38:11.981Z",
+      "activatedAt": "2026-11-25T19:38:11.981Z"
+    },
+    {
       "id": "USER-10a9745ae5e31bdbb87b3124",
       "fullName": "Olabode david",
       "username": "timileyin",
