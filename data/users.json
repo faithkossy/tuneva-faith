@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-555e569c0b161fb376ff8e9c",
+      "fullName": "Juliet Esemoma",
+      "username": "jubabe",
+      "email": "juliethaurwell@gmail.com",
+      "phone": "07063800790",
+      "passwordHash": "d90f08eb8bf01acab245493977afbd01:794409e5ae2243ca65071291dc60a4ca0709327793099294373b37593348a68ee4656b5e5dceff314258cd3cb0fcde4ebf7be047b80501b8b9210f13aba23325",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-4ffc4ec787f4135e0118912c",
+      "createdAt": "2026-11-25T11:57:40.826Z",
+      "activatedAt": "2026-11-25T11:57:40.826Z"
+    },
+    {
       "id": "USER-de4c3246939993a55e881f9c",
       "fullName": "Aja uchechukwu",
       "username": "uchechukwu",
