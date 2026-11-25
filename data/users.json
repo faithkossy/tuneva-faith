@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-5f2a7db9c003060282859fb1",
+      "fullName": "Oyohowo Etime Effiong",
+      "username": "ongod",
+      "email": "princeetime54@gmail.com",
+      "phone": "09137842490",
+      "passwordHash": "20cbdfa39be3979cd76239e8bc27f004:9d12e60c282c6944726d0ff09f9b88780e1c34ab2be6a1ad6e365fc1b4b7aa1fbca0a9ddc4b9dd5a27312bcbc83334cbda176b860dc56e39495e5a458c5bf10b",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-03332c7d9854308cdda7f8fd",
+      "createdAt": "2026-11-25T06:53:22.577Z",
+      "activatedAt": "2026-11-25T06:53:22.577Z"
+    },
+    {
       "id": "USER-0da5f3f09d7446035277aa6c",
       "fullName": "Olamide Ariyo",
       "username": "mideboi",
