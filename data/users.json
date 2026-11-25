@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-6b1619bfed7475cecfe28751",
+      "fullName": "Queen Gldeon",
+      "username": "queen",
+      "email": "benjamuniig3ii3g@gmaij.com",
+      "phone": "07017001940",
+      "passwordHash": "131ca28f33da9eff226df34c5ae30bed:d39b75e96cb641785a2975b6a0a8a29f37424dc5807a625223adef13b278396ca304f3c1847273abf96795f8f5dc39275c94e705b5e277739843691410b8e82a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-6254646dca7da20c10577c92",
+      "createdAt": "2026-11-25T11:58:56.380Z",
+      "activatedAt": "2026-11-25T11:58:56.380Z"
+    },
+    {
       "id": "USER-555e569c0b161fb376ff8e9c",
       "fullName": "Juliet Esemoma",
       "username": "jubabe",
