@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-de4c3246939993a55e881f9c",
+      "fullName": "Aja uchechukwu",
+      "username": "uchechukwu",
+      "email": "uchechukwue015@gmail.com",
+      "phone": "08165534801",
+      "passwordHash": "8b5c902a4f54f0e1157ea7e762e9738f:df585cdba12459d986e0590cbd9b68c6c10008caaf5caa04c91d0fae452a61729460b1df4236d68d994f2ac5bca770ddf121e3904c215e5100df4234ef5952e5",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-284746c4b988487f68db3dfd",
+      "createdAt": "2026-11-25T07:48:08.208Z",
+      "activatedAt": "2026-11-25T07:48:08.208Z"
+    },
+    {
       "id": "USER-e014f45a640a74097e797a29",
       "fullName": "Excellent osifo",
       "username": "deon",
