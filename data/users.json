@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-ae5753a695fdbcc33a291b12",
+      "fullName": "Amos Joseph",
+      "username": "mog",
+      "email": "joseph622606aj@gmail.com",
+      "phone": "08109356013",
+      "passwordHash": "799a1fa304304e20c99f77ad29f1a2eb:aef3f80db3755309dbaf4fafc76512dd1d010d0a3e6adefd77f4c7c07d34b3a4afeac45741c74496a54754f15e52bc37dc96785030d4e727ea044f32ed20ba3d",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b120e029709c66a9c33b0794",
+      "createdAt": "2026-11-26T12:12:31.074Z",
+      "activatedAt": "2026-11-26T12:12:31.074Z"
+    },
+    {
       "id": "USER-221ec58bcc6d8d0f7d044c6b",
       "fullName": "Rosemary adebimpe",
       "username": "adebimpe",
