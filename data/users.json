@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-16acfe15aad52ed114216702",
+      "fullName": "Blessing Friday",
+      "username": "blessingfrid5578",
+      "email": "bf1323051@gmail.com",
+      "phone": "07062566508",
+      "passwordHash": "3d20135c8727f9dbadad594a9f6ff036:5e1a0e5556618f8a6a7dc4709700ac8b0df37af08b08d657bdb130dd7e7ee5121ba8488d3f44190e522cfe6793498bf07c61d7cb834001d21a4e10fe999b366c",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a6e099dfb80783e4c4899aff",
+      "createdAt": "2026-11-26T16:16:45.656Z",
+      "activatedAt": "2026-11-26T16:16:45.656Z"
+    },
+    {
       "id": "USER-0f009493e545795f6ce75502",
       "fullName": "Delight Benson",
       "username": "delight",
