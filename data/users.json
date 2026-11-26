@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0f009493e545795f6ce75502",
+      "fullName": "Delight Benson",
+      "username": "delight",
+      "email": "delightogedegbe6@gmail.com",
+      "phone": "09130884857",
+      "passwordHash": "96721e3ec9f4a3c512568f50ad190c78:4333a2be545ff1e84beace9900373fe639c4981be5378c861edeaaf1de9a835dcaab3f3b239d1ec03da56aef7d77b98f4efdfdc7f1b10b30b4dd4fa3ab2433e0",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-de210f7cc4fb53f87674a3ee",
+      "createdAt": "2026-11-26T16:14:53.380Z",
+      "activatedAt": "2026-11-26T16:14:53.380Z"
+    },
+    {
       "id": "USER-f7c7108020a7b9bf6525a5c0",
       "fullName": "Anthony Akpan Udoh",
       "username": "tonaeudoh",
