@@ -51061,12 +51061,12 @@
     },
     "USER-10a9745ae5e31bdbb87b3124": {
       "balance": 10000,
-      "todayDate": "2026-11-25",
-      "todayEarnings": 10000,
+      "todayDate": "2026-11-26",
+      "todayEarnings": 0,
       "tapPoints": 10500,
       "tapCount": 30,
-      "tapDailyPoints": 10500,
-      "tapDailyEarnings": 3000,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 7000,
       "claimedVideos": [
         "seyi-vibes",
