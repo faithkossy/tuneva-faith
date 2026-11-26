@@ -67154,21 +67154,60 @@
       "lastTapAt": 0
     },
     "USER-a55041a6f576d3d711f0a8e9": {
-      "balance": 1750,
+      "balance": 7100,
       "todayDate": "2026-11-26",
-      "todayEarnings": 1750,
-      "tapPoints": 0,
-      "tapCount": 0,
-      "tapDailyPoints": 0,
-      "tapDailyEarnings": 0,
-      "videoEarnings": 1750,
+      "todayEarnings": 7100,
+      "tapPoints": 350,
+      "tapCount": 1,
+      "tapDailyPoints": 350,
+      "tapDailyEarnings": 100,
+      "videoEarnings": 7000,
       "claimedVideos": [
-        "seyi-vibes"
+        "seyi-vibes",
+        "bigger-escapes",
+        "bigger-fun",
+        "bigger-joyrides"
       ],
       "processedEvents": [
-        "6f6489b4-e990-44ab-b620-1ad18aee55e2"
+        "6f6489b4-e990-44ab-b620-1ad18aee55e2",
+        "72e226a3-765e-4b40-ab55-26b2a1181a44",
+        "907867f8-62d3-4967-9303-0beb45e53b9e",
+        "09440ce5-4128-444b-b814-cb7bc589a6e4",
+        "68f5248f-2e8d-43fb-9fb8-8c82a116f104"
       ],
       "history": [
+        {
+          "id": "68f5248f-2e8d-43fb-9fb8-8c82a116f104",
+          "title": "Tap Rewards",
+          "subtitle": "Tap Tap",
+          "amount": 100,
+          "date": "2026-11-26T20:13:34.541Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "09440ce5-4128-444b-b814-cb7bc589a6e4",
+          "title": "Video Rewards",
+          "subtitle": "For Bigger Joyrides",
+          "amount": 1750,
+          "date": "2026-11-26T20:13:34.541Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "907867f8-62d3-4967-9303-0beb45e53b9e",
+          "title": "Video Rewards",
+          "subtitle": "For Bigger Fun",
+          "amount": 1750,
+          "date": "2026-11-26T20:13:34.541Z",
+          "currency": "NGN"
+        },
+        {
+          "id": "72e226a3-765e-4b40-ab55-26b2a1181a44",
+          "title": "Video Rewards",
+          "subtitle": "For Bigger Escapes",
+          "amount": 1750,
+          "date": "2026-11-26T20:13:34.541Z",
+          "currency": "NGN"
+        },
         {
           "id": "6f6489b4-e990-44ab-b620-1ad18aee55e2",
           "title": "Video Rewards",
