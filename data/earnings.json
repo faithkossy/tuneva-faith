@@ -4881,12 +4881,12 @@
     },
     "USER-2491647c51a8fb23f969c6a7": {
       "balance": 19000,
-      "todayDate": "2026-11-25",
-      "todayEarnings": 3000,
+      "todayDate": "2026-11-26",
+      "todayEarnings": 0,
       "tapPoints": 42000,
       "tapCount": 120,
-      "tapDailyPoints": 10500,
-      "tapDailyEarnings": 3000,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 7000,
       "claimedVideos": [
         "seyi-vibes",
