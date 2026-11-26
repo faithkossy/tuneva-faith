@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-bae0492abb8feb70c1814215",
+      "fullName": "Nkechi 3",
+      "username": "nkechi",
+      "email": "josephdubike4@gmail.com",
+      "phone": "07036292984",
+      "passwordHash": "4e11411c2fa1ee3cdfeb53dbe9796682:05b26a96d85613bc6d0081740cde9a71c520180b16c3ddfc9254de56c12bf631bd7dc269e84063ed829ce76d482aad5dc95737460a091f759ccdda5aeb0a70fb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b73d0ffec8b0665cb77af831",
+      "createdAt": "2026-11-26T17:06:54.057Z",
+      "activatedAt": "2026-11-26T17:06:54.057Z"
+    },
+    {
       "id": "USER-1319b8dab2f72814c7f04312",
       "fullName": "Queen 2",
       "username": "chukwu",
