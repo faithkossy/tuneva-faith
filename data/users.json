@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-7470379ea5e42edc5ba4708c",
+      "fullName": "Ndorne bariagara",
+      "username": "bariagara",
+      "email": "unityblessingforlife@gmail.com",
+      "phone": "09159331494",
+      "passwordHash": "be1b8d84e3a7cce975157cc7dbe87f3e:e4c2c71f7010eccdc49f2f209083da01406cc5ba70df9f4c7d7a3d418835ca415781e749723c22c4426eba22148eb11ab630f3342144785af4f42afdf8a03edc",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-089d8c61d6f924e9f1fc37b2",
+      "createdAt": "2026-11-26T16:29:27.958Z",
+      "activatedAt": "2026-11-26T16:29:27.958Z"
+    },
+    {
       "id": "USER-16acfe15aad52ed114216702",
       "fullName": "Blessing Friday",
       "username": "blessingfrid5578",
