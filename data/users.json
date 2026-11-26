@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-67afc83a5932482a63b219bc",
+      "fullName": "Ofoma chidalu",
+      "username": "chidalu",
+      "email": "ofomachidalu7@gmail.com",
+      "phone": "08088683936",
+      "passwordHash": "47632544cc1e02872b7353116e46a46f:2c00bdd9e183e2f45ea7c04010b88a1f3b3365ee21731bfb7125a398c893dbee057191652e26b74b4a1f26575ed7be5b262c18cdb8d2a97e8606970f99dcb8fb",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-41cae3c67b9c7cc8a392ff5e",
+      "createdAt": "2026-11-26T22:51:45.104Z",
+      "activatedAt": "2026-11-26T22:51:45.104Z"
+    },
+    {
       "id": "USER-52886a6c9a57bf2ad4b1f04e",
       "fullName": "Alexander Mary",
       "username": "alexander",
