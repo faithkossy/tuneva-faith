@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-fd7aecb36e59cc08e24f0336",
+      "fullName": "Kenneth Chukwudi",
+      "username": "kenney",
+      "email": "chukwudik681@gmail.com",
+      "phone": "09126996675",
+      "passwordHash": "e6ba274118233bfc7d3ef6076d08af39:2dc7f49d11d132777d3d36a1c41bc1f75232a484adca8b5d5b22744abd73e7bf13b742711118742f6f4fefeef793c5ce0615a73f3bd6a3916254da591fabdbfd",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-9663948b2f62cb292f088f8a",
+      "createdAt": "2026-11-26T19:05:05.630Z",
+      "activatedAt": "2026-11-26T19:05:05.630Z"
+    },
+    {
       "id": "USER-fcfc0c1aa062a19171b76ab7",
       "fullName": "Balogun Caroline",
       "username": "caroline",
