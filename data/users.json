@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-c9302250fa67d003e25dbd64",
+      "fullName": "Alaka oluwapelumi",
+      "username": "oluwapelumi",
+      "email": "hayjayluxeb@gmail.com",
+      "phone": "09130112616",
+      "passwordHash": "b1f6ec1de4f7841f26585cfbed987f64:198be8bb2b994b22dccb4894ecd818a7e0600fe454742c528687a3f511e87934eae48a29781ebe00422575290927d3fb617ef0d559dcb9f5737a5407c2548095",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-a2270ab9dbdf2f1f556c4512",
+      "createdAt": "2026-11-26T23:29:28.430Z",
+      "activatedAt": "2026-11-26T23:29:28.430Z"
+    },
+    {
       "id": "USER-67afc83a5932482a63b219bc",
       "fullName": "Ofoma chidalu",
       "username": "chidalu",
