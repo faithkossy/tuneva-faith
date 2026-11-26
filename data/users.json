@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-fcfc0c1aa062a19171b76ab7",
+      "fullName": "Balogun Caroline",
+      "username": "caroline",
+      "email": "itzprechiegold093@gmail.com",
+      "phone": "09166203867",
+      "passwordHash": "393878f8fb29f8f5922277c293aa1a07:4ae4a10ced7219b34261c71b3fa642840b669d90aa73c63ab83f18389562a28de394c4751e429622b8955270a14f1dba82ab97ae48f1aae95d60216eb17a5457",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-72a2d845219ab8cd6f49b223",
+      "createdAt": "2026-11-26T17:30:31.822Z",
+      "activatedAt": "2026-11-26T17:30:31.822Z"
+    },
+    {
       "id": "USER-bae0492abb8feb70c1814215",
       "fullName": "Nkechi 3",
       "username": "nkechi",
