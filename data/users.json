@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-de0a0b7662fa2b71e97613e7",
+      "fullName": "Okunade Adeola",
+      "username": "dede",
+      "email": "adeolaokunade3@gmail.com",
+      "phone": "09010921390",
+      "passwordHash": "4f54ddb92ed6d6f1a9cce1eb3d0da73f:d4c37d65606b1093656bfa0204d35af54146d8e98afdcb1192ecd509132f81e99003deb8b7289f302ef3c65d7693c0c012aeacf558260649f3bd0a5c739e0cc1",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-b78c02d427553711e0fa2b6d",
+      "createdAt": "2026-11-26T10:25:04.486Z",
+      "activatedAt": "2026-11-26T10:25:04.486Z"
+    },
+    {
       "id": "USER-97b1554b3ef542da614e7ab6",
       "fullName": "Aseyaigbene  philip",
       "username": "aseyaigbene",
