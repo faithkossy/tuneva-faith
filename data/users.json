@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-daaf29f10cdcff6c044be950",
+      "fullName": "OTOSI JOHN KOMOMMO",
+      "username": "johnnysupreme",
+      "email": "princejohnpaulotosi@gmail.com",
+      "phone": "09012899582",
+      "passwordHash": "b5e2162f58e2930686362e522c26ba4d:c12422c894361333484cb1dbf30fe1e3e5fdffdcc1eb20b63113cb50cac23e463c95f1bf71eb97232287f4b7e64d8abe2d6ab48473bc885a240bbb0daf95a983",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-c0d10b35a4183d55a57f9349",
+      "createdAt": "2026-11-27T07:21:26.667Z",
+      "activatedAt": "2026-11-27T07:21:26.667Z"
+    },
+    {
       "id": "USER-adeccdf493d81a231fe85416",
       "fullName": "Godwin  trump",
       "username": "godwin",
