@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-0cfcb41a3d43f875cbde42fa",
+      "fullName": "Testimony untouchable",
+      "username": "testimony",
+      "email": "testimonyuntouchable868@gmil.com",
+      "phone": "08108031865",
+      "passwordHash": "3a2b68d1303369f16dbe0e35e0cadcd4:fbae9d88ba2b51d9ff40230866b51a4fcd6e7a5702c2966f3b3859ec6517432aa4ea69e6ccaf68d2b1ec814ca91dc866d5aa5e2138223db19f910664b81c2355",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-5bf5f2a3a05717189878bc03",
+      "createdAt": "2026-11-27T23:11:06.211Z",
+      "activatedAt": "2026-11-27T23:11:06.211Z"
+    },
+    {
       "id": "USER-3e9d9cef2227010b628159ca",
       "fullName": "Adunni ade",
       "username": "adunni001",
