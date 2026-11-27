@@ -56494,12 +56494,12 @@
     },
     "USER-a63e325c62511c760f5ee143": {
       "balance": 16000,
-      "todayDate": "2026-11-26",
-      "todayEarnings": 4750,
+      "todayDate": "2026-11-27",
+      "todayEarnings": 0,
       "tapPoints": 31500,
       "tapCount": 90,
-      "tapDailyPoints": 10500,
-      "tapDailyEarnings": 3000,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 7000,
       "claimedVideos": [
         "bigger-escapes",
