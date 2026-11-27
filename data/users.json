@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-3da1e660632870b9e075cb66",
+      "fullName": "Glory Sunday",
+      "username": "glory",
+      "email": "gloryenesunday@gmail.com",
+      "phone": "09166852497",
+      "passwordHash": "f47e08565e2316bd96d7f9646a0db9ab:40efd42839a0a1738881921d9ae364f62ffb7e43a140de123b4ada369319d49d831559049d8b910629f7e781ebc6f35f3bfc94c7381e5d9b9eb8522b1c899332",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-d17a13f209aae3fbf6b356c8",
+      "createdAt": "2026-11-27T11:25:52.235Z",
+      "activatedAt": "2026-11-27T11:25:52.235Z"
+    },
+    {
       "id": "USER-2d63581c92c2c25ec22927f8",
       "fullName": "Kanyinsola Afolabi",
       "username": "kendall",
