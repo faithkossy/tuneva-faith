@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-42fa89bb7d67dde1b6b3faf9",
+      "fullName": "Gabriel Samuel",
+      "username": "samuel090",
+      "email": "ogcash07080@gmail.com",
+      "phone": "09073840805",
+      "passwordHash": "7e0abce5bcd800bdb76699ef621ff849:dd2a6b3c33aaa1d746788255784d6538d83cb2b4ac4fbf4543a4df8588f6314e5776ca02fa6889c87665b2a565b88567216f2539d8131235aab53150a7dd5190",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-9d10c5676970673403481b58",
+      "createdAt": "2026-11-27T20:57:12.436Z",
+      "activatedAt": "2026-11-27T20:57:12.436Z"
+    },
+    {
       "id": "USER-d04cc87258b63b39c610dac6",
       "fullName": "Jush drunk",
       "username": "jush",
