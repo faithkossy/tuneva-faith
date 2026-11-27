@@ -82431,15 +82431,17 @@
       "lastTapAt": 0
     },
     "USER-2d63581c92c2c25ec22927f8": {
-      "balance": 3000,
+      "balance": 4750,
       "todayDate": "2026-11-27",
-      "todayEarnings": 3000,
+      "todayEarnings": 4750,
       "tapPoints": 10500,
       "tapCount": 30,
       "tapDailyPoints": 10500,
       "tapDailyEarnings": 3000,
-      "videoEarnings": 0,
-      "claimedVideos": [],
+      "videoEarnings": 1750,
+      "claimedVideos": [
+        "seyi-vibes"
+      ],
       "processedEvents": [
         "c0f9ff2e-e881-44ce-ad98-414dd90dd40a",
         "497d0215-e447-4ab2-a2b2-37c362e9efa5",
@@ -82470,9 +82472,18 @@
         "bbebb014-ee5a-452c-adb9-7297aacc6f8d",
         "0f99482a-d260-400c-917c-3c5b299a66b4",
         "6efd5130-eb74-4715-b9ed-54a5c8b922ec",
-        "01f221d0-b35b-442c-afc6-b03e1c4e4153"
+        "01f221d0-b35b-442c-afc6-b03e1c4e4153",
+        "06edf418-d765-4033-ab2c-0fe6acbfbf36"
       ],
       "history": [
+        {
+          "id": "06edf418-d765-4033-ab2c-0fe6acbfbf36",
+          "title": "Video Rewards",
+          "subtitle": "Seyi Vibes",
+          "amount": 1750,
+          "date": "2026-11-27T11:16:50.666Z",
+          "currency": "NGN"
+        },
         {
           "id": "01f221d0-b35b-442c-afc6-b03e1c4e4153",
           "title": "Tap Rewards",
