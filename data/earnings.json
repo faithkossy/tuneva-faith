@@ -64108,12 +64108,12 @@
     },
     "USER-eec5ddc10b3d0c3601d7238e": {
       "balance": 10800,
-      "todayDate": "2026-11-26",
-      "todayEarnings": 800,
+      "todayDate": "2026-11-27",
+      "todayEarnings": 0,
       "tapPoints": 13300,
       "tapCount": 38,
-      "tapDailyPoints": 2800,
-      "tapDailyEarnings": 800,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 7000,
       "claimedVideos": [
         "seyi-vibes",
