@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-2d63581c92c2c25ec22927f8",
+      "fullName": "Kanyinsola Afolabi",
+      "username": "kendall",
+      "email": "kanyinsolaafolabi4@gmail.com",
+      "phone": "08082505116",
+      "passwordHash": "873bdba4203e5e61056b34d426694ae1:65d27bc95b14d659834ad833b5b8f1e98d36fc8de358e91f918eb1276f592198d70bff370ebd92a2c52d905c474f70b60d98978253dc8cb7ed858f6ef3a86d41",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-1a1c8a180f97f8a79bb8e460",
+      "createdAt": "2026-11-27T11:08:30.262Z",
+      "activatedAt": "2026-11-27T11:08:30.262Z"
+    },
+    {
       "id": "USER-22bd0724e40522d0829ed518",
       "fullName": "Ogbonna amarachi",
       "username": "goldamy",
