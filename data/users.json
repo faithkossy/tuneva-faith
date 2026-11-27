@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-d04cc87258b63b39c610dac6",
+      "fullName": "Jush drunk",
+      "username": "jush",
+      "email": "jushdruhk@gmail.com",
+      "phone": "07017722029",
+      "passwordHash": "6dea53c4096c8965615898b6f4a2dd83:b49bc3f96b02e9d896146309677c0b7bb7cba3e3933dfc5a0002ca124186ecce5cf17dcd5805ee747809827ab52f28a07d30980c66b76aeb3757ea24b32724c3",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-6c13a6df5be0abbd5774039b",
+      "createdAt": "2026-11-27T15:29:00.706Z",
+      "activatedAt": "2026-11-27T15:29:00.706Z"
+    },
+    {
       "id": "USER-4de65b87bb5670e7495a4859",
       "fullName": "Pweety Daniella",
       "username": "vivian",
