@@ -93271,12 +93271,12 @@
     },
     "USER-3da1e660632870b9e075cb66": {
       "balance": 3000,
-      "todayDate": "2026-11-27",
-      "todayEarnings": 3000,
+      "todayDate": "2026-11-28",
+      "todayEarnings": 0,
       "tapPoints": 10500,
       "tapCount": 30,
-      "tapDailyPoints": 10500,
-      "tapDailyEarnings": 3000,
+      "tapDailyPoints": 0,
+      "tapDailyEarnings": 0,
       "videoEarnings": 0,
       "claimedVideos": [],
       "processedEvents": [
