@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-1e0fa0864478ea17a4599260",
+      "fullName": "Okeren prosper",
+      "username": "prosper",
+      "email": "domainpk090@gmail.com",
+      "phone": "09021217465",
+      "passwordHash": "000b49dfe4ecb9a72aba762313cee558:632dbff922d5d5c9cfee7d39ff7525528e2be672c3e0445411c6eedf717f8522c137ac559718c6ec42315fee7670949469fa0132d10336914e423d01da221d9a",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-9db777adf4529183972f0e91",
+      "createdAt": "2026-11-28T06:47:26.814Z",
+      "activatedAt": "2026-11-28T06:47:26.814Z"
+    },
+    {
       "id": "USER-cc23a3173a9b1f078ca745c5",
       "fullName": "Mmesoma Favour",
       "username": "mmechi",
