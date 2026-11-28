@@ -1,6 +1,18 @@
 {
   "users": [
     {
+      "id": "USER-908873f30e185b8bf1e9c7d9",
+      "fullName": "Chukwudi Enwefah",
+      "username": "chukz",
+      "email": "kennethchukwudi481@gmail.com",
+      "phone": "08063382268",
+      "passwordHash": "546da727651a40d8d445687bbd26b14e:065c57b95a42e6f260e5ba7545c94fac9dac53fc9278745c0d5449bfad4d856cdba6981a2ce1927a5b4df03beb52acfc4bdc5fa1d27089d8d2959783592ef516",
+      "status": "active",
+      "paymentId": "PAY-TUNEVA-7a7158499c837cd70a6de054",
+      "createdAt": "2026-11-28T08:42:01.179Z",
+      "activatedAt": "2026-11-28T08:42:01.179Z"
+    },
+    {
       "id": "USER-1e0fa0864478ea17a4599260",
       "fullName": "Okeren prosper",
       "username": "prosper",
